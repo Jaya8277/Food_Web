@@ -1,6 +1,6 @@
 # Food Ordering Website
 
-Welcome to the Food Ordering Website project! This is a mini project created with React.js, Redux for ordering food online. The website includes features such as user authentication, a home page with a menu, category pages, detailed food pages, a user profile, and a shopping cart.
+The Food Ordering Website is a mini project built with React.js and Redux, designed for online food ordering. It features user authentication, a home page with a menu and categories, detailed food pages, a user profile, and a shopping cart. Users can register, log in, view/edit profiles, and manage their cart with Redux for state management. The project showcases modern web development practices for a seamless user experience.
 
 ## Screenshots
 
