@@ -1,35 +1,36 @@
 # Food Ordering Website
 
-Welcome to the Food Ordering Website project! This is a mini project created with React.js, Redux,Html and CSS for ordering food online. The website includes features such as user authentication, a home page with a menu, category pages, detailed food pages, a user profile, and a shopping cart.
+Welcome to the Food Ordering Website project! This is a mini project created with React.js, Redux for ordering food online. The website includes features such as user authentication, a home page with a menu, category pages, detailed food pages, a user profile, and a shopping cart.
 
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/screenshot0.png)
+![image](https://github.com/user-attachments/assets/14ebe1b6-6f99-43ee-a280-5c98285b86d3)
+
 
 ### Register Page
-![Register Page](screenshots/screenshot01.png)
+![image](https://github.com/user-attachments/assets/23edcb93-f6e8-45b4-8cfc-5ef410b3e600)
+
 
 ### Home Page
-![Home Page](screenshots/screenshot1.png)
+![image](https://github.com/user-attachments/assets/f8574a7a-2ac7-4626-94d8-b6d55d336c24)
 
-![Home Page](screenshots/screenshot2.png)
-
-![Home Page](screenshots/screenshot3.png)
-
-![Home Page](screenshots/screenshot4.png)
 
 ### Category Page
-![Category Page](screenshots/screenshot5.png)
+![image](https://github.com/user-attachments/assets/b1c04df3-ca86-4007-b169-3be28638b647)
+
 
 ### Single Food Page
-![Single Food Page](screenshots/screnshot6.png)
+![image](https://github.com/user-attachments/assets/daf76e9f-bbc6-44f9-933a-d98419c40a48)
+
 
 ### Profile Page
-![Profile Page](screenshots/screenshot7.png)
+![image](https://github.com/user-attachments/assets/963ccc84-50d3-4850-b29a-1d140f244724)
+
 
 ### Cart Page
-![Cart Page](screenshots/screenshot8.png)
+![image](https://github.com/user-attachments/assets/8362533b-0591-4791-a9fa-b481b5b8ccc5)
+
 
 ## Features
 
@@ -53,6 +54,4 @@ Welcome to the Food Ordering Website project! This is a mini project created wit
 
 - React.js
 - Redux
-- Html
-- CSS
 
